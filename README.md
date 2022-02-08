@@ -1,5 +1,6 @@
 # BomberosFront
 ## instalacion
+ejecutar npm install
 ### Definir variables de entorno
 Cambiar la url por la de su backend en el archivo environment que se encuentra en la carpeta environments. la variable de  entorno llamada apiURL
 
